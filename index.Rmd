@@ -1,11 +1,26 @@
 ---
-title: "James's Website"
+title: "James Pearson"
 ---
 
-Hello, World!
+#### Hi there...  
 
-This website is dedicated to personal learning and interests with the occasional rant.
+I've created this website for personal learning and interests with the occasional rant.  
 
-It's built using RStudio but I'll probably migrate to python at some point if I CBA.
+#### These days I like to rant about:  
 
-Safe as f***
+* Data science, mainly related to marketing
+* Gambling
+* The UK's housing crisis
+* Immigration
+* Philosophy  
+
+This website is built using R Markdown in [RStudio](http://rmarkdown.rstudio.com/rmarkdown_websites.html) which is super cool.  
+
+#### As a great man once said:  
+
+> [Just Do It](https://www.youtube.com/watch?v=ZXsQAXx_ao0)
+
+> [I remember](https://soundcloud.com/deadmau5isawesome/deadmau5-i-remember-vocal-mix)
+
+
+

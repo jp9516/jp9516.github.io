@@ -1,0 +1,117 @@
+---
+title: "cv"
+date: "14 September 2017"
+output: html_document
+---
+
+# **James Pearson**
+
+## Employment
+
+#### **CRM Insight Analyst, Wunderman UK, London (Dec 2016 - May 2017)**
+
+*Key duties include:*
+
+- Responsible for the delivery of CRM reporting and insights for the global Shell loyalty programme
+- Analysed retail transactions with SAS Enterprise tools, creating stratified samples and ETL processes for campaign measurement
+- Designed, developed and presented new dashboards and annual CRM forecast
+
+#### **SQL Reporting Analyst - Contract, Karhoo, London, (Sept 2016 - Nov 2016)**
+
+3 month contract with a taxi comparison app start-up to support the marketing department.
+
+*Key duties include:*
+
+- Writing SQL queries to extract data from AWS Redshift, MySQL and Apache Drill
+- Adhoc data support and reporting for digital marketing and CRM teams
+- Automating adhoc reporting using Tableau or Python
+
+#### **Data Analyst, Zone, London, (Jun 2016 - Sept 2016)**
+
+Responsible for delivery of CRM strategy, data analysis and reporting initiatives for multiple clients within a Digital Agency.
+
+*Key duties include:*
+
+- Responsible for delivery of data analysis in a Digital Agency
+- Designed and developed KPI frameworks and tagging solutions using Google Tag Manager and Google Analytics
+- Created targeted CRM campaigns in Salesforce Marketing Cloud
+
+#### **Data Analyst, MixRadio, Bristol (Aug 2015 - May 2016)**
+
+Using a combination of R, PostgreSQL and Tableau, I queried app event behaviour on a global music streaming application to provide actionable reporting and insight.
+
+*Key duties include:*
+
+- Measurement of digital marketing channels and identification of poor performing publishers
+- Responsible for building and maintaining KPI scripts on AWS Redshift
+- Creation of Tableau reports for data enabling operations
+- Recommending data-lead campaign segments for emails and notifications. Responsible for post campaign analysis and campaign target improvements which resulted in incremental user engagement
+- Weekly presentations communicating ad-hoc analysis and KPI&#39;s to the wider business to advocate a data-driven environment
+- Led predictive analytics involving creation of propensity models to improve CRM targeting and to understand and communicate user churn predictors
+
+#### **BI and Customer Segmentation Analyst, Grosvenor Casinos (Rank Group PLC), London, (Apr 2013 - Aug 2015)**
+
+By collating, manipulating and analysing data from large datasets from multiple sources, I provided reporting solutions and customer insights in an easy to digest format to key stakeholders supporting decision making in various departments primarily on the digital product
+
+*Key duties include:*
+
+- CRM reporting and optimisation
+- Creation of digital customer segmentation (RFV) improving retention and reactivation targeting. Successfully optimised ROI of free bets given per segment resulting in greater campaign yield
+- Challenging the digital DWH team on data integrity, ensuring timely resolutions and assisting with sprint planning
+- Responsible for digital acquisition reporting and insight
+- Creation of LTV model to project player value per marketing channel
+- Responsible for data-integrity of digital marketing attribution within the BI system, liaising with multiple digital media agencies on required destination URL structure
+- Creation and maintenance of internal PPC reporting
+- Multi-channel reporting and insights for Grosvenor Casinos club advocacy
+- Working with the Finance and Operation Directors, travelling to Gibraltar and Maidenhead HQ&#39;s, to create and agree the Grosvenor Digital commercial model, budgeting for the financial year
+
+#### **Junior Data Analyst, Rank Interactive (Rank Group PLC), London, (Aug 2012 - Apr 2013)**
+
+I provided reporting solutions and ad hoc data analysis across three iGaming brands; BSQ, meccabingo.com and grosvenorcasinos.com
+
+*Key duties include:*
+
+- Creation of data-enabling reports in Microsoft Report Manager, SSRS services, based from stakeholder requirements
+- Writing SQL queries to extract lists for CRM campaigns as well as post campaign analysis
+- Creation of daily/weekly/monthly automated KPI reports across grosvenorcasinos.com
+
+## Skills and Achievements
+
+**Computing:**
+
+- Advanced user of all Microsoft Office applications
+- User of Qlickview, SmartFOCUS/SmartMARKETER, Google Analytics, Google Tag Manager, Tableau, Periscope, Re:Dash
+- Advanced Microsoft SQL Server, PostgreSQL and R
+- Intermediate knowledge of Python (Pandas, NumPy), HTML, SAS and Git
+
+**Effective Communication:**
+
+- Strong reporting skills in many formats, including Microsoft Excel and PowerPoint
+- Communicating intricate insights to colleagues in a clear and concise manner through 1-1&#39;s and group presentations
+
+**Team Working and Leadership:**
+
+- Working in a team on numerous reporting projects and action groups
+- Independently managing and prioritising workload to upcoming deadlines and self-teaching new skills
+- Mentored and taught junior analysts
+
+**Effective Time Management and Organisational Skills:**
+
+- Knowledge of carrying out and documenting financial models, business requirements and data UAT&#39;s
+- High punctuality to deadlines whilst working well under pressure to deliver
+
+## Education
+
+2009-2012, University of Bristol, BSc (Hons) Mathematics (2:2)
+
+- Received a 59 grade point average
+- Competent in statistical analysis as demonstrated by FirstClass grades in first, second and final year statistics
+
+2002-2009, Trinity School, Carlisle
+A Levels  
+
+- Maths (A)
+- Further Maths (A)
+- Physics (B)
+- Geography (B)
+- AS Level: Art (B)

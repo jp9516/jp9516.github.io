@@ -2,8 +2,6 @@
 title: "About Me"
 ---
 
-Why I am awesome.
+I don't enjoy being [narcissistic.](https://www.youtube.com/watch?v=y48hZ_rGsP4)
 
-Just do it.
-
-Check out my CV.
+But, hypocritically, check out my [CV.](cv.html)

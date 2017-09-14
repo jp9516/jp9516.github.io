@@ -1,6 +1,6 @@
 ---
-title: "attribution_modelling"
-author: "jp9516"
+title: "Attribution Modelling"
+author: "James Pearson"
 date: "14 September 2017"
 output: html_document
 ---

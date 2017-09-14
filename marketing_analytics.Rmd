@@ -1,17 +1,32 @@
 ---
 title: "Marketing Analytics"
+author: "James Pearson"
+output: html_document
 ---
 
-Sometimes I like to do projects and then post them on the internet for the whole world to benefit!
-here's some examples. 
 
-## [Data Visualization in R](http://nickstrayer.me/visualization_in_r/)
+I've found that marketing analytics is an interesting topic for my career, so this represents case studies of the concepts I come across on a day to day basis! Will attempt to post in both R and Python.
 
-- An RMarkdown presentation on the common mistakes made in visualization and how to fix them.
-- Includes a github repo for access to all the code.
-- Look at how high quality my work is, hire and or collaborate with me. 
+### [Attribution Modelling](attribution_modelling.html)
 
-## [Statistical Plots](http://bl.ocks.org/nstrayer/37a503dd1db369a8f7e3ce21757e19ee)
+In terms of digital marketing, to get good calculation of conversions one must be able to attribute accordingly. Naturally, there are multiple analytic methods for this depending on the type of data stored by a company.
 
-- Interactive plots of things
-- I can code!
+- Types of attribution modelling
+- The multi-touch attribution model - using first order Markov chains to understand the transition probabilities of marketing channels
+
+### Marketing Mix Models (MMM)
+
+
+### CRM Campaign Analysis
+
+
+### Predicting Cusotmer Churn
+
+
+### Customer Lifetime Value
+
+
+### Customer Segmentation
+
+
+### Setiment Analysis
