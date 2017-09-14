@@ -1,5 +1,11 @@
 ---
-title: "Nick's Website"
+title: "James's Website"
 ---
 
 Hello, World!
+
+This website is dedicated to personal learning and interests with the occasional rant.
+
+It's built using RStudio but I'll probably migrate to python at some point if I CBA.
+
+Safe as f***

@@ -1,9 +1,19 @@
-name: "nicks-website"
+name: "james-website"
 output_dir: "."
 navbar:
-  title: "Nicks Website"
+  title: "James Pearson"
   left:
-    - text: "Home"
+    - text: "home"
       href: index.html
-    - text: "About Me"
+    - text: "data blog"
+      menu:
+        - text: "marketing analytics"
+          href: marketing_analytics.html
+    - text: "about me"
       href: about.html
+    - text: "CV"
+      href: about.html
+output:
+  html_document:
+    theme: cosmo
+    css: style.css
