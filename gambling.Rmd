@@ -1,0 +1,6 @@
+---
+title: "gambling"
+output: html_document
+---
+
+Page dedicated to gambling theory, betting strategies and the industry

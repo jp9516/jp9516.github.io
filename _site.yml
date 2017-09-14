@@ -9,6 +9,9 @@ navbar:
       menu:
         - text: "marketing analytics"
           href: marketing_analytics.html
+        - text: "data visualisation"
+    - text: "Gambling"
+      href: gambling.html
     - text: "about me"
       href: about.html
     - text: "CV"
