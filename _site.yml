@@ -10,7 +10,7 @@ navbar:
         - text: "marketing analytics"
           href: marketing_analytics.html
         - text: "data visualisation"
-    - text: "Gambling"
+    - text: "gambling"
       href: gambling.html
     - text: "about me"
       href: about.html

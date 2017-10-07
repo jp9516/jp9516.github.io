@@ -5,36 +5,40 @@ output: html_document
 ---
 
 
-Marketing analytics is a broad subject of application of data science principles to marketing strategies to increase revenue for a business. This series of posts represents the concepts I come across on a day to day basis! I'll attempt to post in both R and Python.
+Marketing analytics is a broad subject of application of data science principles to marketing strategies. This series of posts represents the concepts I come across on a day to day basis! I'll attempt to post in both R and Python.
 
 ### [Attribution Modelling](attribution_modelling.html)
 
-In terms of digital marketing, to get good calculation of conversions one must be able to attribute accordingly. Naturally, there are multiple analytic methods for this depending on the type of data stored by a company.
+In terms of digital marketing, to get good calculation of conversions one must be able to attribute a conversion to a marketing channel correctly. Naturally, there are multiple analytic methods for this depending on the type of data stored by a company.
 
+- Standard attribution modeling for digital marketing
 - Multichannel attribution modeling for digital marketing
-- The multi-touch attribution model - using first order Markov chains to understand the transition probabilities of marketing channels
 
 ### Marketing Mix Models (MMM)
 
 
 ### CRM Campaign Analysis
 
-- Treatment and control
+Retaining customers is key for any business - it's much cheaper to retain a customer than the acquire one. To understand the performance of CRM campaigns (which could include direct mail, email or app notifications to name but a few), we rely of experimentation methodologies.
+
+- Treatment and control campaign analysis
 - Control group stratification
 
 ### Churn Modeling
+
+Understand why customers churn is fundamental into improving customer retention. Ideally, we want to predict if customers are likely to churn.
 
 - Logistic regression
 - Random Forrest
 
 ### Customer Lifetime Value
 
-- Buy until you die
+- Cohort analysis
+- Buy til you die (BTYD)
 
 ### Customer Segmentation
 
-- RFM
-- Lifecycle grids
+- RFM - recency, frequency and monetary segmenation; a classic
 - Micro-segmentation
 
 ### Sentiment Analysis
@@ -43,5 +47,19 @@ In terms of digital marketing, to get good calculation of conversions one must b
 
 ### Optimisation
 
+Similary to CRM campaign analysis, to optimise marketing campaigns through a "test and learn" strategy we apply similar methodologies.
+
 - AB testing
 - Multivariate testing
+
+### Uplift Modeling
+
+
+### Buying Cycles
+
+
+### Headroom Modeling
+
+
+
+

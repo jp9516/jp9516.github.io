@@ -1,22 +1,44 @@
 ---
 title: "James Pearson"
+output: html_document
 ---
 
-#### Hi there...  
+#### **Hi there...**  
 
-I've created this website for personal learning and interests with the occasional rant.  
+I've created this website for personal learning and development with the occasional rant.  
 
-#### These days I like to rant about:  
+#### **Things I like to chat about: ** 
 
 * Data science, mainly related to marketing
 * Gambling
-* The UK's housing crisis
-* Immigration
 * Philosophy  
 
 This website is built using R Markdown in [RStudio](http://rmarkdown.rstudio.com/rmarkdown_websites.html) which is super cool.  
 
-#### As a great man once said:  
+#### **I like code and graphs... especially maps  **
+
+```{r, results='asis', echo=FALSE, warning=FALSE, message=FALSE}
+library(leaflet)
+
+content <- paste(sep = "<br/>",
+                 "<b><a href='https://www.theadelphileeds.co.uk/'>My local - beer, beer, beer</a></b>",
+                 "The Adelphi",
+                 "1-3 Hunslet Road",
+                 "Leeds, LS10 1JQ"
+)
+
+m <- leaflet() %>%
+  setView(lng=-1.540, lat=53.793, zoom = 16) %>%
+  addTiles() %>%
+  addPopups(lng=-1.540, lat=53.793, 
+            content,
+            options = popupOptions(closeButton = FALSE))
+m
+
+```
+
+
+#### **Some great men once said:  **
 
 > [Just Do It](https://www.youtube.com/watch?v=ZXsQAXx_ao0)
 
